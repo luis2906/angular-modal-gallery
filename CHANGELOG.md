@@ -1,3 +1,18 @@
+# 7.0.0-alpha.1
+### Features
+- add (plain) carousel
+- new method in GalleryService called 'navigateGallery'
+
+### Internal library changes
+- migrate to the official ng lib features in angular-cli >= 6
+
+### Demos
+- update all examples
+
+### Documentations
+- new documentation website https://github.com/Ks89/angular-modal-gallery-2018-v7.github.io
+
+
 # 6.2.2
 ### Bugfixes
 - when you add images asynchronously with the modal gallery already opened, infinite sliding, the arrows, images and previews are managed in the wrong way (reported by @rezo-evodion #157)
